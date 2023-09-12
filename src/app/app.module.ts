@@ -8,9 +8,17 @@ import { GoogleMapComponent } from './googlemap/googlemap.component';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MatCheckboxModule } from '@angular/material/checkbox';
+import { MapFiltersComponent } from './map-filters/map-filters.component';
+import { MapComponent } from './map/map.component';
+import { HttpClientModule, HttpClientJsonpModule } from '@angular/common/http';
 
 @NgModule({
-  declarations: [AppComponent, GoogleMapComponent],
+  declarations: [
+    AppComponent,
+    GoogleMapComponent,
+    MapFiltersComponent,
+    MapComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -19,6 +27,8 @@ import { MatCheckboxModule } from '@angular/material/checkbox';
     FormsModule,
     ReactiveFormsModule,
     MatCheckboxModule,
+    HttpClientModule,
+    HttpClientJsonpModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
