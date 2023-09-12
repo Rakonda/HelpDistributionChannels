@@ -1,20 +1,26 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { GoogleMapsModule } from '@angular/google-maps';
+import { BrowserModule } from '@angular/platform-browser';
+import { GoogleMapComponent } from './googlemap/googlemap.component';
+import { MatGridListModule } from '@angular/material/grid-list';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MatCheckboxModule } from '@angular/material/checkbox';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
+  declarations: [AppComponent, GoogleMapComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    GoogleMapsModule,
+    MatGridListModule,
+    FormsModule,
+    ReactiveFormsModule,
+    MatCheckboxModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

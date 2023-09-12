@@ -1,0 +1,41 @@
+<div class="container">
+    <mat-grid-list
+        cols="4"
+        rowHeight="100vh"
+    >
+        <mat-grid-tile colspan="3">
+            <div class="mapContainer">
+                <google-map
+                    [options]="options"
+                    height="100%"
+                    width="100%"
+                ></google-map>
+            </div>
+        </mat-grid-tile>
+        <mat-grid-tile colspan="1">
+            <div class="infoBarre">
+                <div class="title"> map indicator</div>
+
+                <div>
+                    <section
+                        class="example-section"
+                        [formGroup]="toppings"
+                    >
+                        <p><mat-checkbox formControlName="pepperoni">Filter 1</mat-checkbox></p>
+                        <p><mat-checkbox formControlName="extracheese">Filter 2</mat-checkbox></p>
+                        <p><mat-checkbox formControlName="mushroom">Filter 3</mat-checkbox></p>
+                    </section>
+
+                    <section
+                        class="example-section"
+                        [formGroup]="toppings"
+                    >
+                        <h4>You chose:</h4>
+                        {{toppings.value | json}}
+                    </section>
+                </div>
+            </div>
+
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>
