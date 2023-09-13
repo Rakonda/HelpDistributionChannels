@@ -3,4 +3,15 @@
     height="100%"
     width="100%"
     *ngIf="apiLoaded | async"
-></google-map>
+>
+    <map-marker
+        #markerElem
+        *ngFor="let marker of markers"
+        [position]="marker.position"
+        [label]="marker.status"
+        [title]="marker.name"
+    >
+    </map-marker>
+
+    <!-- <map-info-window>{{ infoContent }}</map-info-window> -->
+</google-map>

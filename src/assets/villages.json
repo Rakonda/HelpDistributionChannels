@@ -1,0 +1,863 @@
+[
+    {
+        "_id": "6500f5fcb4b458c181ab74c7",
+        "placeId": "aexrp9u51694561787493",
+        "organization": "ighata",
+        "name": "دوار تازلموت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.808782,-8.606285/@30.808732,-8.5363002,12z?entry=ttu",
+        "info": "+212 655-935336 لشكر المختار +212 677-866267 عبد الواحد +212 700-571417 عبد العالي",
+        "coordinates": [
+            30.808732,
+            -8.5363002
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:36:28.336Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f642b4b458c181ab7510",
+        "placeId": "459587qd1694561856504",
+        "organization": "ighata",
+        "name": "ثلات ن يعقوب",
+        "status": "منكوبة",
+        "address": "https://www.google.com/maps/dir//30.99313,-8.235383/@31.2956539,-7.8021198,12z?entry=ttu",
+        "info": "Région Marrakech-Safi 06 02 98 03 06‏",
+        "coordinates": [
+            31.2956539,
+            -7.8021198
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:37:38.328Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f681b4b458c181ab7543",
+        "placeId": "w6afv8ik1694561919510",
+        "organization": "ighata",
+        "name": "إيجوكاك",
+        "status": "منكوبة",
+        "address": "https://www.google.com/maps/dir//30.997324,-8.162536/@30.9973046,-8.092496,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9973046,
+            -8.092496
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:38:41.548Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f6a9b4b458c181ab7575",
+        "placeId": "tpc9rtza1694561958515",
+        "organization": "ighata",
+        "name": "دوار امندار‎‏",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.847017,-8.579649/@30.8469985,-8.5096092,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8469985,
+            -8.5096092
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:39:21.635Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f6ffb4b458c181ab75f0",
+        "placeId": "ens81j8c1694562045523",
+        "organization": "ighata",
+        "name": "دوار تجكَالت‎‏",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.060757,-8.855264/@31.060737,-8.785224,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.060737,
+            -8.785224
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:40:47.226Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f71ab4b458c181ab7613",
+        "placeId": "fy5mf7oz1694562072524",
+        "organization": "ighata",
+        "name": "مركز جماعة توبقال",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.992835,-7.815381/@30.9928163,-7.7453409,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9928163,
+            -7.7453409
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:41:14.588Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f738b4b458c181ab7631",
+        "placeId": "33xt9a6i1694562102527",
+        "organization": "ighata",
+        "name": "مركز جماعة أوناين",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.864691,-8.187128/@30.8646725,-8.1170882,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8646725,
+            -8.1170882
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:41:44.298Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f754b4b458c181ab7653",
+        "placeId": "janitoz51694562129530",
+        "organization": "ighata",
+        "name": "أنزال",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.12069,-7.582624/@31.1206737,-7.5125747,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.1206737,
+            -7.5125747
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:42:12.428Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f76eb4b458c181ab766a",
+        "placeId": "dmfsvnqc1694562156532",
+        "organization": "ighata",
+        "name": "جماعة إيمولاس",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.742339,-8.765256/@30.7423199,-8.6952154,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7423199,
+            -8.6952154
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:42:38.952Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f78ab4b458c181ab7693",
+        "placeId": "favoinfp1694562183535",
+        "organization": "ighata",
+        "name": "أمكرنيس",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.869978,-8.556308/@30.8706605,-8.4865495,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8706605,
+            -8.4865495
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:43:06.076Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f79db4b458c181ab76a7",
+        "placeId": "4oae8uba1694562204538",
+        "organization": "ighata",
+        "name": "مركز جماعة أهل تيفنوت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.964347,-7.826937/@30.9642704,-7.7569028,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9642704,
+            -7.7569028
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:43:25.779Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f844b4b458c181ab774a",
+        "placeId": "zom0mqko1694562369562",
+        "organization": "ighata",
+        "name": "إكيسان",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.916667,-8.5/@31.2956539,-7.8021198,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.2956539,
+            -7.8021198
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:46:12.139Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f86bb4b458c181ab7773",
+        "placeId": "ldutbj7k1694562408564",
+        "organization": "ighata",
+        "name": "تادوني",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.533496,-8.317399/@30.5334771,-8.2473589,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.5334771,
+            -8.2473589
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:46:51.151Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f882b4b458c181ab7791",
+        "placeId": "ecwflrt41694562432567",
+        "organization": "ighata",
+        "name": "إيزلاغن",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.211717,-8.202844/@31.2106021,-8.1334137,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.2106021,
+            -8.1334137
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:47:14.611Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f89ab4b458c181ab77aa",
+        "placeId": "ko1841331694562456569",
+        "organization": "ighata",
+        "name": "أرك",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.983203,-7.874201/@30.9831837,-7.8041607,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9831837,
+            -7.8041607
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:47:38.888Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f8b6b4b458c181ab77e0",
+        "placeId": "bkb3mznj1694562483573",
+        "organization": "ighata",
+        "name": "دوار امندار",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.847017,-8.579649/@30.8469985,-8.5096092,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8469985,
+            -8.5096092
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:48:06.265Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f8efb4b458c181ab7813",
+        "placeId": "4u70bay81694562540579",
+        "organization": "ighata",
+        "name": "تافينكولت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.764828,-8.388272/@30.7648093,-8.3182321,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7648093,
+            -8.3182321
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:49:03.667Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f908b4b458c181ab7829",
+        "placeId": "yco4wsps1694562567582",
+        "organization": "ighata",
+        "name": "جماعة تكوكة",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.847314,-8.616476/@30.8472947,-8.5464355,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8472947,
+            -8.5464355
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:49:28.076Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f92db4b458c181ab7853",
+        "placeId": "0dic19qz1694562603586",
+        "organization": "ighata",
+        "name": "أولوز",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.676081,-8.169367/@30.6760618,-8.0993264,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.6760618,
+            -8.0993264
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:50:05.395Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500f960b4b458c181ab7877",
+        "placeId": "jeju9kk71694562654589",
+        "organization": "ighata",
+        "name": "شيشاوة",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.538358,-8.764639/@31.538339,-8.6945986,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.538339,
+            -8.6945986
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:50:56.565Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fac9b4b458c181ab7a08",
+        "placeId": "rcfno58q1694563014632",
+        "organization": "ighata",
+        "name": "دوار الخميس أوريكا",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.387888,-7.769515/@31.3881048,-7.6996256,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.3881048,
+            -7.6996256
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:56:57.069Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500faf5b4b458c181ab7a23",
+        "placeId": "oh6d8g0g1694563059636",
+        "organization": "ighata",
+        "name": "أغبار",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.903713,-8.405211/@30.9035381,-8.3351356,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9035381,
+            -8.3351356
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:57:41.047Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fb3cb4b458c181ab7a54",
+        "placeId": "szlajxal1694563131641",
+        "organization": "ighata",
+        "name": "تاليوين، إسافن",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//29.862719,-8.536055/@29.8627007,-8.4660148,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            29.8627007,
+            -8.4660148
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:58:52.584Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fb71b4b458c181ab7a72",
+        "placeId": "n7m1lv461694563182646",
+        "organization": "ighata",
+        "name": "دوار تاكوشت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.446772,-8.449534/@30.4467537,-8.3794938,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.4467537,
+            -8.3794938
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-12T23:59:45.748Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fb94b4b458c181ab7a8d",
+        "placeId": "avqvcpw11694563218649",
+        "organization": "ighata",
+        "name": "مسجد تفنوت‎‎‏",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.359853,-8.612197/@30.3598347,-8.5421566,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.3598347,
+            -8.5421566
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:00:20.925Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fbc2b4b458c181ab7aad",
+        "placeId": "f2j0e7wf1694563263653",
+        "organization": "ighata",
+        "name": "ايت حدو يوسف إقليم شيشاوة‎‎‎‎‎‏",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.937579,-8.72162/@30.9375599,-8.6515797,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9375599,
+            -8.6515797
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:01:06.205Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fc33b4b458c181ab7aed",
+        "placeId": "a9dfjhpe1694563377665",
+        "organization": "ighata",
+        "name": "أغبار‎",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.802514,-7.971524/@30.802495,-7.9014837,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.802495,
+            -7.9014837
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:02:59.560Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fc73b4b458c181ab7b21",
+        "placeId": "khbcwcxu1694563440671",
+        "organization": "ighata",
+        "name": "وحدة أكرض أوريغ",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir/%D9%88%D8%AD%D8%AF%D8%A9+%D8%A3%D9%83%D8%B1%D8%B6+%D8%A3%D9%88%D8%B1%D9%8A%D8%BA%E2%80%AD/%D9%88%D8%AD%D8%AF%D8%A9+%D8%A3%D9%83%D8%B1%D8%B6+%D8%A3%D9%88%D8%B1%D9%8A%D8%BA%D8%8C+%D8%AA%D8%A7%D8%BA%D9%88%D8%A7%D8%B4%D8%AA%E2%80%AD/@30.8019204,-8.5020162,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xdb1b15e33180ce1:0xdef57f6977432130!2m2!1d-8.5844167!2d30.8019465!1m5!1m1!1s0xdb1b15e33180ce1:0xdef57f6977432130!2m2!1d-8.5844167!2d30.8019465!3e2?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8019204,
+            -8.5020162
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:04:03.395Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fd61b4b458c181ab7e4d",
+        "placeId": "8h8o2si81694563680694",
+        "organization": "ighata",
+        "name": "إمليل",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D8%A5%D9%85%D9%84%D9%8A%D9%84%E2%80%AD/@31.1366477,-7.9083967,15z/data=!3m1!4b1!4m6!3m5!1s0xdb00e5efec05a9d:0x965e72a7f152f377!8m2!3d31.1356474!4d-7.9194842!16zL20vMDViX2o0?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.1366477,
+            -7.9083967
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:08:01.254Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fd81b4b458c181ab7e5f",
+        "placeId": "pe9x3aox1694563713698",
+        "organization": "ighata",
+        "name": "أسكمو",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.330177,-6.562992/@31.3312612,-6.4923254,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.3312612,
+            -6.4923254
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:08:33.887Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fdd4b4b458c181ab7e8a",
+        "placeId": "bavlhfwl1694563794706",
+        "organization": "ighata",
+        "name": "اغرم",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir/%D8%A7%D8%BA%D8%B1%D9%85%E2%80%AD/30.084996,-8.465042/@30.0916609,-8.4483025,14z/data=!4m8!4m7!1m5!1m1!1s0xdb0d83d1670b9cf:0x2a1c893a53ec1b27!2m2!1d-8.4598492!2d30.0883251!1m0?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.0916609,
+            -8.4483025
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:09:56.908Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fdf0b4b458c181ab7ea1",
+        "placeId": "rs1joacv1694563821709",
+        "organization": "ighata",
+        "name": "ادسيار امزغني‎‏",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.020094,-8.091287/@31.0200754,-8.0212465,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.0200754,
+            -8.0212465
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:10:24.167Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fe13b4b458c181ab7f12",
+        "placeId": "zrrxb1kg1694563857712",
+        "organization": "ighata",
+        "name": "دوار تخزنيت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.726747,-8.545322/@30.7267279,-8.4752823,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7267279,
+            -8.4752823
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:10:59.192Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fe32b4b458c181ab7f7e",
+        "placeId": "jzuac9hl1694563887716",
+        "organization": "ighata",
+        "name": "تاسغيموت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.565885,-7.59448/@31.5629674,-7.5240473,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.5629674,
+            -7.5240473
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:11:30.827Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fea2b4b458c181ab8032",
+        "placeId": "t86g08ag1694564001727",
+        "organization": "ighata",
+        "name": "آيت ابراهيم - واد نفيس",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir/%D8%A2%D9%8A%D8%AA+%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%E2%80%AD/31.5867319,-8.1893775/@31.5328283,-8.1126605,11z/data=!4m9!4m8!1m5!1m1!1s0xdafc30fc6d1b525:0x3083d5d60662f102!2m2!1d-8.1898614!2d31.5836471!1m0!3e0?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.5328283,
+            -8.1126605
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:13:22.043Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500febdb4b458c181ab8050",
+        "placeId": "5qwiub1b1694564028729",
+        "organization": "ighata",
+        "name": "أماسا",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.867065,-8.826973/@30.8670461,-8.7569326,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.8670461,
+            -8.7569326
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:13:49.111Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500fed6b4b458c181ab806c",
+        "placeId": "hj7i2ykn1694564052731",
+        "organization": "ighata",
+        "name": "تامجوت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.35074,-8.419108/@30.3508456,-8.3494434,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.3508456,
+            -8.3494434
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:14:14.087Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500ff20b4b458c181ab80b6",
+        "placeId": "0rw571301694564127741",
+        "organization": "ighata",
+        "name": "إيكيدي",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.747914,-7.927444/@30.7462229,-7.8572618,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7462229,
+            -7.8572618
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:15:28.102Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500ff52b4b458c181ab80ef",
+        "placeId": "x5x915hm1694564175744",
+        "organization": "ighata",
+        "name": "مولاي براهيم",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D9%85%D9%88%D9%84%D8%A7%D9%8A+%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%E2%80%AD/@31.2850553,-7.9653864,16z/data=!4m6!3m5!1s0xdb01b398b360ba9:0x727be2f371cf9409!8m2!3d31.2859953!4d-7.9652891!16s%2Fg%2F11s30_7k08?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.2850553,
+            -7.9653864
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:16:18.711Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500ff89b4b458c181ab8121",
+        "placeId": "ik46uy1r1694564232751",
+        "organization": "ighata",
+        "name": "إيمولاس",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9+%D8%A5%D9%8A%D9%85%D9%88%D9%84%D8%A7%D8%B3%E2%80%AD/@30.7438628,-8.755154,15z/data=!4m19!1m12!4m11!1m6!1m2!1s0xdb1a327878eaa87:0x6325736ece5fbdc2!2z2KXYudiv2KfYr9mK2Kkg2KXZitmF2YjZhNin2LM!2m2!1d-8.7662688!2d30.7445151!1m3!2m2!1d-8.765327!2d30.743402!3m5!1s0xdb1a327878eaa87:0x6325736ece5fbdc2!8m2!3d30.7445136!4d-8.7662686!16s%2Fg%2F11r_d90s1r?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7438628,
+            -8.755154
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:17:13.441Z",
+        "__v": 0
+    },
+    {
+        "_id": "6500ffbab4b458c181ab814e",
+        "placeId": "e099pyqw1694564280757",
+        "organization": "ighata",
+        "name": "إغيل",
+        "status": "منكوبة",
+        "address": "https://www.google.com/maps/dir//30.765477,-8.821017/@30.7656098,-8.7507048,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.7656098,
+            -8.7507048
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:18:02.627Z",
+        "__v": 0
+    },
+    {
+        "_id": "6501000ab4b458c181ab8182",
+        "placeId": "lmygztyc1694564361765",
+        "organization": "ighata",
+        "name": "تانصغارت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/Tansgharte/@31.2969757,-6.0035576,13z/data=!3m1!4b1!4m6!3m5!1s0xdbcc7ddcf62aba1:0xecd8e151738c0f08!8m2!3d31.2969827!4d-6.0447571!16s%2Fg%2F11sz614vck?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.2969757,
+            -6.0035576
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:19:22.930Z",
+        "__v": 0
+    },
+    {
+        "_id": "6501001fb4b458c181ab8197",
+        "placeId": "abvgp8by1694564382767",
+        "organization": "ighata",
+        "name": "أنيرني‎",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//31.119491,-8.31603/@31.119472,-8.24599,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            31.119472,
+            -8.24599
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:19:43.719Z",
+        "__v": 0
+    },
+    {
+        "_id": "650100bcb4b458c181ab8267",
+        "placeId": "unkrsp4m1694564538782",
+        "organization": "ighata",
+        "name": "تالبورت‎",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.6121,-9.07266/@30.6112076,-9.0027688,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.6112076,
+            -9.0027688
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:22:20.240Z",
+        "__v": 0
+    },
+    {
+        "_id": "650100f6b4b458c181ab82cf",
+        "placeId": "4hgjd0kp1694564598789",
+        "organization": "ighata",
+        "name": "تماروت‎",
+        "status": "منكوبة",
+        "address": "https://www.google.com/maps/dir//30.934395,-8.251099/@30.9343757,-8.1810591,12z?entry=ttu",
+        "info": "",
+        "coordinates": [
+            30.9343757,
+            -8.1810591
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:23:18.919Z",
+        "__v": 0
+    },
+    {
+        "_id": "65010173b4b458c181ab8325",
+        "placeId": "e12idilz1694564722608",
+        "organization": "ighata",
+        "name": "زاوية سيدي أحمد أو علي (النحلية)",
+        "status": "منكوبة",
+        "address": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9+%D8%A7%D9%84%D9%86%D8%AD%D9%84%D9%8A%D8%A9+Zaouiya+Nahliya%E2%80%AD/@31.2215378,-8.5994063,18z/data=!4m6!3m5!1s0xdb1d193f313380b:0x1ee63434da72f3fc!8m2!3d31.2221675!4d-8.6010089!16s%2Fg%2F11rfq5h09k?entry=ttu",
+        "coordinates": [
+            31.2215378,
+            -8.5994063
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:25:23.873Z",
+        "__v": 0
+    },
+    {
+        "_id": "650101bab4b458c181ab8352",
+        "placeId": "3lhftapb1694564791617",
+        "organization": "ighata",
+        "name": "أداسيل",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D8%A3%D8%AF%D8%A7%D8%B3%D9%8A%D9%84%E2%80%AD/@31.1110403,-8.4768532,14z/data=!3m1!4b1!4m6!3m5!1s0xdb1ccd8d9fb7229:0xa15a495f017667c1!8m2!3d31.1105316!4d-8.4981022!16s%2Fm%2F0k0pkvh?entry=ttu",
+        "coordinates": [
+            31.1110403,
+            -8.4768532
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:26:34.423Z",
+        "__v": 0
+    },
+    {
+        "_id": "65010201b4b458c181ab837c",
+        "placeId": "7p7f6pv01694564863625",
+        "organization": "ighata",
+        "name": "تارودانت",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA%E2%80%8E%E2%80%AD/@30.478702,-8.8357107,13z/data=!3m1!4b1!4m6!3m5!1s0xdb17309901e7a19:0x9b0fdf4f4b50237a!8m2!3d30.4727126!4d-8.8748765!16zL20vMDVscTJ6?entry=ttu",
+        "coordinates": [
+            30.478702,
+            -8.8357107
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:27:45.607Z",
+        "__v": 0
+    },
+    {
+        "_id": "65010213b4b458c181ab8392",
+        "placeId": "w57xxry31694564881627",
+        "organization": "ighata",
+        "name": "مراكش",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D9%85%D8%B1%D8%A7%D9%83%D8%B4%E2%80%AD/@31.634198,-7.678215,10z/data=!3m1!4b1!4m6!3m5!1s0xdafee8d96179e51:0x5950b6534f87adb8!8m2!3d31.6225224!4d-7.9898258!16zL20vMDU0cnc?entry=ttu",
+        "coordinates": [
+            31.634198,
+            -7.678215
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:28:03.798Z",
+        "__v": 0
+    },
+    {
+        "_id": "65010226b4b458c181ab83a5",
+        "placeId": "28rd59wz1694564899628",
+        "organization": "ighata",
+        "name": "وارزازات",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/place/%D9%88%D8%B1%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA+45000%E2%80%AD/@30.9354179,-6.7677823,11z/data=!3m1!4b1!4m6!3m5!1s0xdbb104077422057:0x26b3cb529b37ab00!8m2!3d30.9335436!4d-6.937016!16zL20vMDJmdnB0?entry=ttu",
+        "coordinates": [
+            30.9354179,
+            -6.7677823
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:28:22.737Z",
+        "__v": 0
+    },
+    {
+        "_id": "65010263b4b458c181ab83c5",
+        "placeId": "63pec4w81694564962634",
+        "organization": "ighata",
+        "name": "الخميس آيت حدو يوسف",
+        "status": "متضررة",
+        "address": "https://www.google.com/maps/dir//30.937579,-8.72162/@30.8815468,-8.6785305,12z?entry=ttu",
+        "coordinates": [
+            30.8815468,
+            -8.6785305
+        ],
+        "alerts": [],
+        "isActive": true,
+        "date": "2023-09-13T00:29:23.460Z",
+        "__v": 0
+    }
+]
